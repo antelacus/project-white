@@ -12,6 +12,21 @@
 
 ## 📘 报告导航
 
+### 🏗️报告框架
+
+```
+project-white/
+├── docs/                      # GitHub Pages 页面内容
+├── Project_White.ipynb        # 分析用 Jupyter Notebook
+├── Project_White.pdf          # 分析报告 PDF 版本
+├── SQL_statements.pdf         # 数据处理用 SQL 语句
+├── basic_data.xlsx            # 示例数据集（源自 UCI）
+├── .gitignore                 # Git 忽略文件配置
+├── requirements.txt           # Python 依赖说明
+└── README.md                  # 项目说明（当前文件）
+```
+
+### 📑报告目录
 - [客户分析](customer-analysis.md)
 - [商品分析](product-analysis.md)
 - [建模方法](modeling.md)
