@@ -10,19 +10,19 @@
 
 ---
 
-## 📁 项目结构
+# 📘 报告导航
 
-```
-project-white/
-├── docs/                      # GitHub Pages 页面内容
-├── Project_White.ipynb        # 分析用 Jupyter Notebook
-├── Project_White.pdf          # 分析报告 PDF 版本
-├── SQL_statements.pdf         # 数据处理用 SQL 语句
-├── basic_data.xlsx            # 示例数据集（源自 UCI）
-├── .gitignore                 # Git 忽略文件配置
-├── requirements.txt           # Python 依赖说明
-└── README.md                  # 项目说明（当前文件）
-```
+- [客户分析](customer-analysis.md)
+- [商品分析](product-analysis.md)
+- [建模方法](modeling.md)
+- [结论与建议](conclusion.md)
+
+## 📁 附件下载
+
+- [Jupyter Notebook](../Project_White.ipynb)
+- [PDF报告](../Project_White.pdf)
+- [SQL语句](../SQL_statements.pdf)
+- [数据集Excel](../basic_data.xlsx)
 
 ---
 
@@ -37,6 +37,22 @@ project-white/
 - 分析商品销售集中度、价格结构与趋势
 - 构建 SARIMAX 模型进行季节性销售预测
 - 提出库存优化与促销策略建议
+
+---
+
+## 📁 项目结构
+
+```
+project-white/
+├── docs/                      # GitHub Pages 页面内容
+├── Project_White.ipynb        # 分析用 Jupyter Notebook
+├── Project_White.pdf          # 分析报告 PDF 版本
+├── SQL_statements.pdf         # 数据处理用 SQL 语句
+├── basic_data.xlsx            # 示例数据集（源自 UCI）
+├── .gitignore                 # Git 忽略文件配置
+├── requirements.txt           # Python 依赖说明
+└── README.md                  # 项目说明（当前文件）
+```
 
 ---
 
@@ -71,16 +87,3 @@ jupyter notebook
 
 ---
 
-# 📘 报告导航
-
-- [客户分析](customer-analysis.md)
-- [商品分析](product-analysis.md)
-- [建模方法](modeling.md)
-- [结论与建议](conclusion.md)
-
-## 📁 附件下载
-
-- [Jupyter Notebook](../Project_White.ipynb)
-- [PDF报告](../Project_White.pdf)
-- [SQL语句](../SQL_statements.pdf)
-- [数据集Excel](../basic_data.xlsx)
