@@ -1,26 +1,79 @@
-# Project White - Gift Sales Analysis
 
-A complete data analysis project on customer behavior and product trends for a UK gift sales company, based on real transaction data from UCI Machine Learning Repository.
+# Project White - 英国礼品销售公司客户与商品分析
 
-## 📊 Project Overview
+这是一个完整的数据分析项目，基于英国一家礼品销售公司两年内的真实交易数据，旨在通过探索性分析、客户建模和销售预测，为业务运营提出改进建议。
 
-- **Language:** Python (Jupyter Notebook)
-- **Database:** PostgreSQL
-- **Models Used:**
-  - RFM model for customer segmentation
-  - Cohort analysis for retention prediction
-  - SARIMAX model for seasonal sales forecasting
+📊 **技术栈：**
+- 数据存储：PostgreSQL
+- 分析工具：Python, Jupyter Notebook
+- 可视化：Matplotlib, Seaborn
+- 模型方法：RFM 模型、Cohort 留存分析、SARIMAX 时间序列预测
 
-## 📁 File Structure
+---
 
-- `Project_White.ipynb`: Full Jupyter notebook with code and outputs
-- `Project_White.pdf`: Report version with visualized insights
-- `SQL_statements.pdf`: SQL queries used for database operations
-- `basic_data.xlsx`: Base data sample (non-sensitive)
+## 📁 项目结构
 
-## 🔧 Requirements
+```
+project-white/
+├── docs/                      # GitHub Pages 页面内容
+├── Project_White.ipynb        # 分析用 Jupyter Notebook
+├── Project_White.pdf          # 分析报告 PDF 版本
+├── SQL_statements.pdf         # 数据处理用 SQL 语句
+├── basic_data.xlsx            # 示例数据集（源自 UCI）
+├── .gitignore                 # Git 忽略文件配置
+├── requirements.txt           # Python 依赖说明
+└── README.md                  # 项目说明（当前文件）
+```
 
-Install required packages using:
+---
+
+## 🔍 项目亮点
+
+### 📦 客户分析（Customer Analysis）
+- 利用 RFM 模型对客户价值进行评分
+- 使用 Cohort 分析预测客户流失
+- 挖掘“潜力客户”、“忠诚客户”和“需要唤醒客户”群体
+
+### 🛍 商品分析（Product Analysis）
+- 分析商品销售集中度、价格结构与趋势
+- 构建 SARIMAX 模型进行季节性销售预测
+- 提出库存优化与促销策略建议
+
+---
+
+## 🌐 在线浏览报告
+
+项目报告已通过 GitHub Pages 发布，可直接在线阅读：
+
+👉 [点击访问 Project White 网页版报告](https://antelacus.github.io/project-white/)
+
+---
+
+## 🛠 快速启动
+
+如需在本地运行分析：
 
 ```bash
+# 克隆仓库
+git clone https://github.com/antelacus/project-white.git
+cd project-white
+
+# 安装依赖
 pip install -r requirements.txt
+
+# 启动 Jupyter
+jupyter notebook
+```
+
+---
+
+## 📜 数据来源与授权
+
+- 数据集来自 [UCI Machine Learning Repository - Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+- 本项目遵循 MIT License 许可协议
+
+---
+
+## 🙋‍♂️ 作者
+
+项目由 [@antelacus](https://github.com/antelacus) 制作，用于数据分析能力展示与公开分享。如有建议欢迎反馈或交流！
