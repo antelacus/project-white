@@ -39,17 +39,17 @@ Name: quantity, dtype: float64
 
 **高收入商品销售额变动趋势：**
 
-<img src="output_129_0.png" alt="png" style="zoom: 80%;" />
+<img src="./assets/output_129_0.png" alt="png" style="zoom: 80%;" />
 
 **热销商品销售量变动趋势：**
 
-<img src="output_130_0.png" alt="png" style="zoom: 80%;" />
+<img src="./assets/output_130_0.png" alt="png" style="zoom: 80%;" />
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **分品种高收入商品销售额和热销商品销售量：**
 
-<img src="output_131_0.png" alt="png" style="zoom: 67%;" />
+<img src="./assets/output_131_0.png" alt="png" style="zoom: 67%;" />
 
 对销售情况的分析发现：
 
@@ -73,7 +73,7 @@ Name: quantity, dtype: float64
 
 **最热销商品在英国销售量变动趋势：**
 
-<img src="output_135_0.png" alt="png" style="zoom: 80%;" />
+<img src="./assets/output_135_0.png" alt="png" style="zoom: 80%;" />
 
 **确认最热销商品在英国销售量变动满足模型使用前提条件：**
 
@@ -95,11 +95,11 @@ dtype: float64
 
 2. 数据无异常值：
 
-<img src="output_137_0.png" alt="png" style="zoom: 80%;" />
+<img src="./assets/output_137_0.png" alt="png" style="zoom: 80%;" />
 
 **调整后的节假日高峰与销售高峰吻合：**
 
-<img src="output_139_0.png" alt="png" style="zoom:67%;" />
+<img src="./assets/output_139_0.png" alt="png" style="zoom:67%;" />
 
 **使用训练数据确定的模型参数：**
 
@@ -114,17 +114,17 @@ rmse
 
 **使用模型对测试数据进行验证：**
 
-<img src="output_142_0.png" alt="png" style="zoom:80%;" />
+<img src="./assets/output_142_0.png" alt="png" style="zoom:80%;" />
 
 **使用模型对未来期间销售量进行预测：**
 
-<img src="output_145_0.png" alt="png" style="zoom:80%;" />
+<img src="./assets/output_145_0.png" alt="png" style="zoom:80%;" />
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **预测全过程展示：**
 
-<img src="output_146_0.png" alt="png" style="zoom:80%;" />
+<img src="./assets/output_146_0.png" alt="png" style="zoom:80%;" />
 
 预测结果表明，模型成功根据可获取信息捕捉到销售情况的变化趋势及整体体现的季节性。通过对未来销售量的预测，公司可以在预测的高峰期增加备货，提前准备物流资源，以提高供应稳定性。
 
