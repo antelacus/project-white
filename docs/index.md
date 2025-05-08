@@ -40,14 +40,6 @@ project-white/
 
 ---
 
-## 🌐 在线浏览报告
-
-项目报告已通过 GitHub Pages 发布，可直接在线阅读：
-
-👉 [点击访问 Project White 网页版报告](https://antelacus.github.io/project-white/)
-
----
-
 ## 🛠 快速启动
 
 如需在本地运行分析：
