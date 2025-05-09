@@ -35,8 +35,6 @@ max      108434.00
 Name: quantity, dtype: float64
 ```
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 **高收入商品销售额变动趋势：**
 
 <img src="./assets/output_129_0.png" alt="png" style="zoom: 80%;" />
