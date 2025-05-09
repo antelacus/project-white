@@ -24,7 +24,6 @@
 - [Jupyter Notebook](../Project_White.ipynb)
 - [PDF报告](../Project_White.pdf)
 - [SQL语句](../SQL_statements.pdf)
-- [数据集Excel](../basic_data.xlsx)
 
 ---
 
