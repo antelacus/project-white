@@ -12,14 +12,14 @@
 
 ## 📘 报告导航
 
-### 📑报告目录
+### 📑 报告目录
 - [分析方法与数据准备](methodology.md)
 - [建模方法](modeling.md)
 - [客户分析](customer-analysis.md)
 - [商品分析](product-analysis.md)
 - [结论与建议](conclusion.md)
 
-### 📁附件下载
+### 📁 附件下载
 
 - [Jupyter Notebook](../Project_White.ipynb)
 - [PDF报告](../Project_White.pdf)
@@ -86,4 +86,3 @@ jupyter notebook
 项目由 [@antelacus](https://github.com/antelacus) 制作，用于数据分析能力展示与公开分享。如有建议欢迎反馈或交流！
 
 ---
-
