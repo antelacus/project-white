@@ -43,8 +43,6 @@ Name: quantity, dtype: float64
 
 <img src="./assets/output_130_0.png" alt="png" style="zoom: 80%;" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 **分品种高收入商品销售额和热销商品销售量：**
 
 <img src="./assets/output_131_0.png" alt="png" style="zoom: 67%;" />
@@ -108,8 +106,6 @@ rmse
 2910.5554852386963
 ```
 
-<br><br><br><br><br><br><br><br><br><br>
-
 **使用模型对测试数据进行验证：**
 
 <img src="./assets/output_142_0.png" alt="png" style="zoom:80%;" />
@@ -117,8 +113,6 @@ rmse
 **使用模型对未来期间销售量进行预测：**
 
 <img src="./assets/output_145_0.png" alt="png" style="zoom:80%;" />
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **预测全过程展示：**
 
