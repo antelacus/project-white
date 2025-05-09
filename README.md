@@ -19,7 +19,6 @@ project-white/
 ├── Project_White.ipynb        # 分析用 Jupyter Notebook
 ├── Project_White.pdf          # 分析报告 PDF 版本
 ├── SQL_statements.pdf         # 数据处理用 SQL 语句
-├── basic_data.xlsx            # 示例数据集（源自 UCI）
 ├── .gitignore                 # Git 忽略文件配置
 ├── requirements.txt           # Python 依赖说明
 └── README.md                  # 项目说明（当前文件）
