@@ -21,9 +21,10 @@
 
 ### 📁 附件下载
 
-- [Jupyter Notebook](./Project_White.ipynb)
-- [PDF报告](./Project_White.pdf)
-- [SQL语句](./SQL_statements.pdf)
+- [在 GitHub 上查看源代码](https://github.com/antelacus/project-white/blob/main/Project_White.ipynb)
+- [通过 nbviewer 在线阅读](https://nbviewer.org/github/antelacus/project-white/blob/main/Project_White.ipynb)
+- [PDF报告](https://github.com/antelacus/project-white/blob/main/Project_White.pdf)
+- [SQL语句](https://github.com/antelacus/project-white/blob/main/SQL_statements.pdf)
 
 ---
 
