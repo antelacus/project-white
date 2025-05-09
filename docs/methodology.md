@@ -29,6 +29,16 @@
 ## 3️⃣ 探索性数据分析（EDA）
 
 - 📊 **描述性统计**：平均交易金额、单价、数量的分布
+
+<img src="./assets/output_87_0.png" alt="png" style="zoom: 80%;" />
+单价分布
+
+<img src="./assets/output_87_1.png" alt="png" style="zoom: 80%;" />
+数量分布
+
+<img src="./assets/output_87_2.png" alt="png" style="zoom: 80%;" />
+交易金额分布
+
 - 📉 **时间趋势分析**：
   - 年末订单与金额激增
   - 每年出现一致的季节性波动
