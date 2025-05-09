@@ -21,7 +21,7 @@
 
 ### 📁附件下载
 
-- [Jupyter Notebook](https://github.com/antelacus/project-white/blob/main/Project_White.ipynb)
+- [Jupyter Notebook](../Project_White.ipynb)
 - [PDF报告](../Project_White.pdf)
 - [SQL语句](../SQL_statements.pdf)
 
