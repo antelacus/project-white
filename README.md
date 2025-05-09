@@ -61,7 +61,7 @@ cd project-white
 pip install -r requirements.txt
 
 # 启动 Jupyter
-jupyter notebook
+jupyter notebook Project_White.ipynb
 ```
 
 ---
