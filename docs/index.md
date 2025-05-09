@@ -14,9 +14,9 @@
 
 ### 📑报告目录
 - [分析方法与数据准备](methodology.md)
+- [建模方法](modeling.md)
 - [客户分析](customer-analysis.md)
 - [商品分析](product-analysis.md)
-- [建模方法](modeling.md)
 - [结论与建议](conclusion.md)
 
 ### 📁附件下载
