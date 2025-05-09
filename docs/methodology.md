@@ -31,18 +31,21 @@
 - 📊 **描述性统计**：平均交易金额、单价、数量的分布
 
 <img src="./assets/output_87_0.png" alt="png" style="zoom: 80%;" />
-<center>单价分布</center>
 
 <img src="./assets/output_87_1.png" alt="png" style="zoom: 80%;" />
-<center>数量分布</center>
 
 <img src="./assets/output_87_2.png" alt="png" style="zoom: 80%;" />
-<center>交易金额分布</center>
 
 - 📉 **时间趋势分析**：
   - 年末订单与金额激增
   - 每年出现一致的季节性波动
+
+<img src="./assets/output_88_0.png" alt="png" style="zoom: 80%;" />
+
 - 🌍 **地理分布**：90% 销售发生在英国
+
+<img src="./assets/output_90_0.png" alt="png" style="zoom: 80%;" />
+
 - 🧃 **商品分析**：
   - 商品种类丰富但集中度低
   - 单价低、销量高的商品为主
